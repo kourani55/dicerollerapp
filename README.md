@@ -1,6 +1,6 @@
 # dicerollerapp
 
-HOW TO RUN PROJECT:
+## HOW TO RUN PROJECT:
 
 The project was made using Kotlin and Android Studio.
 
